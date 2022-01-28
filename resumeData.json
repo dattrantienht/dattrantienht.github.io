@@ -1,26 +1,26 @@
 {
   "main": {
     "name":"Tran Tien Dat",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"I am a software developer and I am making website, games and mobile apps. Welcome to my resume page",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "tiendattran.gm@gmail.com",
+    "phone": "+84 388 470 365",
     "github":"https://github.com/dattrantienht",
     "project":"https://github.com/dattrantienht",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Route 80",
+      "city":"Tan Hiep, ",
+      "state":"Kien Giang",
+      "zip": "Vietnam"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://keyboardslinger.club",
+    "resumedownload":"https://keyboardslinger.club",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/tiendattran.gm/",
         "className":"fa fa-facebook"
       },
       {
@@ -30,17 +30,17 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/dattrantienht",
         "className":"fa fa-github"
       }
     ]
@@ -77,32 +77,20 @@
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"C#",
         "level":"60%"
       },
       {
-        "name":"VueJs",
+        "name":"JavaScript",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
+        "name":"React Native",
         "level":"50%"
       },
       {
         "name":"CSS",
         "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
       }
     ]
   },

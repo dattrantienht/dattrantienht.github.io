@@ -335,7 +335,10 @@
       line-height: 54px;
    }
 
-
+   /* particals background */
+   .particles-bg-canvas-self {
+      display: none;
+   }
 }
 
 /* mobile narrow

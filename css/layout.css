@@ -89,29 +89,24 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #0762f9; }
+header .social li a:hover { color: #00C8FF; }
 
 /* scrolldown link */
-header .scrolldown a {
+header .scrolldown {
    position: absolute;
-   bottom: 30px;
+   bottom: 0px;
    left: 50%;
    margin-left: -29px;
    color: #fff;
    display: block;
-   height: 42px;
-   width: 42px;
-   font-size: 42px;
-   line-height: 42px;
-   color: #fff;
-   border-radius: 100%;
+   height: 60px;
+   width: 60px;
 
    -webkit-transition: all .3s ease-in-out;
    -moz-transition: all .3s ease-in-out;
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #0762f9; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -173,7 +168,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fe6928; }
+ul#nav li.current a { color: #00C8FF; }
 
 
 /* ------------------------------------------------------------------ */
@@ -203,7 +198,7 @@ ul#nav li.current a { color: #fe6928; }
    position: relative;
    width: 120px;
    height: 120px;
-   border-radius: 100%;
+   border-radius: 10%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -216,7 +211,7 @@ ul#nav li.current a { color: #fe6928; }
    background: #444;
 }
 #about .download .button:hover {
-   background: #fff;
+   background: #00C8FF;
    color: #2B2B2B;
 }
 #about .download .button i {
@@ -230,7 +225,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #303030;
+   
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -246,7 +241,7 @@ ul#nav li.current a { color: #fe6928; }
    color: #fff;
 }
 #resume h1 span {
-   border-bottom: 3px solid #0762f9;
+   border-bottom: 3px solid #00C8FF;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -413,7 +408,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   /* background: #303030; */
+   
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -857,8 +852,8 @@ call-to-action .button {
 #contact input:focus,
 #contact textarea:focus,
 #contact select:focus {
-	color: #fff;
-	background-color: #0762f9;
+	color: #111;
+	background-color: #00C8FF;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -1004,7 +999,7 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #00C8FF; }
 
 
 .social .btn:first-child{

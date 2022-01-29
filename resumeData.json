@@ -1,26 +1,26 @@
 {
   "main": {
     "name":"Tran Tien Dat",
-    "description":"I am a software developer and I am making website, games and mobile apps. Welcome to my resume page",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "tiendattran.gm@gmail.com",
-    "phone": "+84 388 470 365",
-    "github":"https://github.com/dattrantienht",
-    "project":"https://github.com/dattrantienht",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"Route 80",
-      "city":"Tan Hiep, ",
-      "state":"Kien Giang",
-      "zip": "Vietnam"
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
     },
-    "website": "https://keyboardslinger.club",
-    "resumedownload":"https://keyboardslinger.club",
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://www.facebook.com/tiendattran.gm/",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
         "className":"fa fa-facebook"
       },
       {
@@ -30,17 +30,17 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com",
+        "url":"http://instagram.com/tbaker_x",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/dattrantienht",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
         "className":"fa fa-github"
       }
     ]
@@ -77,20 +77,32 @@
     ],
     "skills":[
       {
-        "name":"C#",
+        "name":"Python",
         "level":"60%"
       },
       {
-        "name":"JavaScript",
+        "name":"VueJs",
         "level":"55%"
       },
       {
-        "name":"React Native",
+        "name":"ReactJs",
         "level":"50%"
       },
       {
         "name":"CSS",
         "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
       }
     ]
   },
@@ -119,54 +131,18 @@
         "category":"A React based resume website template",
         "image":"04.jpg",
         "url":"http://www.timbakerdev.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past",
+        "user": "Tim Berners-Lee"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "text": "The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.",
+        "user": "Bill Gates"
       }
     ]
   }

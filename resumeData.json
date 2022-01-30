@@ -19,6 +19,12 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
+        "name":"facebook",
+        "url":"https://www.facebook.com/tiendattran.gm/",
+        "iconPack":"fab",
+        "icon":"facebook-f"
+      },
+      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/trantiendatvn/",
         "iconPack":"fab",
@@ -37,36 +43,17 @@
         "icon":"reddit-alien"
       },
       {
-        "name":"youtube",
-        "url":"https://www.youtube.com/channel/UCK05rWCRmnibBOfSsa3phvA",
-        "iconPack":"fab",
-        "icon":"youtube"
-      },
-      {
         "name":"steam",
         "url":"https://steamcommunity.com/id/tiendattran/",
         "iconPack":"fab",
         "icon":"steam-symbol"
       },
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/tiendattran.gm/",
+        "name":"youtube",
+        "url":"https://www.youtube.com/channel/UCK05rWCRmnibBOfSsa3phvA",
         "iconPack":"fab",
-        "icon":"facebook-f"
-      },
-      {
-        "name":"instagram",
-        "url":"https://www.instagram.com/tr.t.d.vn/",
-        "iconPack":"fab",
-        "icon":"instagram"
-      },
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/TintTrn19",
-        "iconPack":"fab",
-        "icon":"twitter"
+        "icon":"youtube"
       }
-      
     ]
   },
   "resume":{
@@ -101,32 +88,24 @@
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"C#",
+        "level":"40%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"React",
+        "level":"30%"
+      },
+      {
+        "name":"Unity",
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"Googling",
+        "level":"85%"
       }
     ]
   },

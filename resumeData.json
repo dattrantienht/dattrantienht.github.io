@@ -19,30 +19,54 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "url":"https://www.linkedin.com/in/trantiendatvn/",
+        "iconPack":"fab",
+        "icon":"linkedin-in"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
+        "url":"https://github.com/dattrantienht",
+        "iconPack":"fab",
+        "icon":"github"
+      },
+      {
+        "name":"reddit",
+        "url":"https://www.reddit.com/user/M4chiavelli/",
+        "iconPack":"fab",
+        "icon":"reddit-alien"
+      },
+      {
+        "name":"youtube",
+        "url":"https://www.youtube.com/channel/UCK05rWCRmnibBOfSsa3phvA",
+        "iconPack":"fab",
+        "icon":"youtube"
+      },
+      {
+        "name":"steam",
+        "url":"https://steamcommunity.com/id/tiendattran/",
+        "iconPack":"fab",
+        "icon":"steam-symbol"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/tiendattran.gm/",
+        "iconPack":"fab",
+        "icon":"facebook-f"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/tr.t.d.vn/",
+        "iconPack":"fab",
+        "icon":"instagram"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/TintTrn19",
+        "iconPack":"fab",
+        "icon":"twitter"
       }
+      
     ]
   },
   "resume":{

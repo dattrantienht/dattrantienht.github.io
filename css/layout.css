@@ -81,7 +81,7 @@ header .banner-text hr {
 header .social {
    margin: 24px 0;
    padding: 0;
-   font-size: 30px;
+   font-size: 35px;
 }
 header .social li {
    display: inline-block;
@@ -803,7 +803,7 @@ call-to-action .button {
    margin-bottom: 6px;
 }
 #contact h1 span { display: none; }
-#contact h1:before {
+/* #contact h1:before {
    font-family: 'FontAwesome';
    content: "\f0e0";
 	padding-right: 10px;
@@ -812,7 +812,7 @@ call-to-action .button {
    text-align: left;
    float: left;
    color: #ebeeee;
-}
+} */
 
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;

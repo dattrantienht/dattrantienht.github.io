@@ -897,6 +897,11 @@ call-to-action .button {
    top: 17px;
 }
 
+#captcha-box{
+   display: inline-block;
+   margin-left: 26%;
+}
+
 
 /* Twitter Feed */
 #twitter {

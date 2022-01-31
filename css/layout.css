@@ -792,7 +792,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #0762f9; }
+#contact a, #contact a:visited  { color: #00C8FF; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -872,7 +872,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #0762f9;
+	color: #00C8FF;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -884,7 +884,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #0762f9; }
+#message-success { color: #00C8FF; }
 
 #message-warning i,
 #message-success i {

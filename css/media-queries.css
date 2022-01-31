@@ -112,7 +112,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #5f0268;
+		background-color: #00C8FF;
 		position: relative;
       border: none;
       float: right;
@@ -373,17 +373,10 @@
    footer .social-links { font-size: 30px; }
    footer .social-links li { margin-left: 14px; }
 
-   /* particals background */
-   .particles-bg-canvas-self {
-      display: none;
-   }
-
    /* letter icon */
    #letter-icon{
       display: none;
    }
-
-   
 }
 
 

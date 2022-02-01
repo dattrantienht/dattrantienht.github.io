@@ -86,29 +86,50 @@
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"C#",
-        "level":"40%"
+        "name": "C#",
+        "description": "Shank shoulder doner ball tip, pork beef ribs bacon. Shankle leberkas t-bone pancetta. Shoulder swine tongue, landjaeger chuck pig jerky capicola short loin.",
+        "image": "unity.png"
       },
       {
-        "name":"JavaScript",
-        "level":"50%"
+        "name": "Unity",
+        "description": "Shank shoulder doner ball tip, pork beef ribs bacon. Shankle leberkas t-bone pancetta. Shoulder swine tongue, landjaeger chuck pig jerky capicola short loin.",
+        "image": "unity.png"
       },
       {
-        "name":"React",
-        "level":"30%"
+        "name": ".NET",
+        "description": "Shank shoulder doner ball tip, pork beef ribs bacon. Shankle leberkas t-bone pancetta. Shoulder swine tongue, landjaeger chuck pig jerky capicola short loin.",
+        "image": "unity.png"
       },
       {
-        "name":"Unity",
-        "level":"60%"
+        "name": "SQL Database",
+        "description": "Shank shoulder doner ball tip, pork beef ribs bacon. Shankle leberkas t-bone pancetta. Shoulder swine tongue, landjaeger chuck pig jerky capicola short loin.",
+        "image": "unity.png"
       },
       {
-        "name":"Googling",
-        "level":"85%"
+        "name": "NodeJS",
+        "description": "Shank shoulder doner ball tip, pork beef ribs bacon. Shankle leberkas t-bone pancetta. Shoulder swine tongue, landjaeger chuck pig jerky capicola short loin.",
+        "image": "unity.png"
+      },
+      {
+        "name": "JavaScript",
+        "description": "Shank shoulder doner ball tip, pork beef ribs bacon. Shankle leberkas t-bone pancetta. Shoulder swine tongue, landjaeger chuck pig jerky capicola short loin.",
+        "image": "unity.png"
+      },
+      {
+        "name": "Expo",
+        "description": "Shank shoulder doner ball tip, pork beef ribs bacon. Shankle leberkas t-bone pancetta. Shoulder swine tongue, landjaeger chuck pig jerky capicola short loin.",
+        "image": "unity.png"
+      },
+      {
+        "name": "React Js",
+        "description": "Shank shoulder doner ball tip, pork beef ribs bacon. Shankle leberkas t-bone pancetta. Shoulder swine tongue, landjaeger chuck pig jerky capicola short loin.",
+        "image": "unity.png"
       }
     ]
   },
+  
   "portfolio":{
     "projects": [
       {

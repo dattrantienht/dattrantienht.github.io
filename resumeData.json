@@ -16,7 +16,7 @@
       "zip": "91000"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://raw.githubusercontent.com/dattrantienht/My_React_Resume/main/resume_TranTienDat.pdf",
+    "resumedownload":"https://raw.githubusercontent.com/dattrantienht/dattrantienht.github.io/main/resume_TranTienDat.pdf",
     "social":[
       {
         "name":"facebook",
@@ -83,7 +83,7 @@
     "skills": [
       {
         "name": "JavaScript",
-        "description": "I start with this programming language when working with angularJS. I really like it, it make me feel free",
+        "description": "First use it when working with angularJS. I really like the freedom of it.",
         "image": "javascript.svg"
       },
       {

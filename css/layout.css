@@ -33,6 +33,9 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
+   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
 }
@@ -939,7 +942,6 @@ call-to-action .button {
 
 footer {
    padding-top: 48px;
-   margin-bottom: 48px;
    color: #303030;
    font-size: 14px;
    text-align: center;
